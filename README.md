@@ -1,4 +1,4 @@
-# 🎓 Multi-Agent Learning System
+# Multi-Agent Learning System
 
 <div align="center">
 
@@ -18,12 +18,12 @@
 ## 📋 Overview
 
 This project implements a **hierarchical multi-agent system** designed to optimize personal learning through:
-- 📅 **Smart Academic Planning** - Automated study schedules and task management
-- 🧠 **Spaced Repetition (SM-2)** - Science-backed memory retention using the SuperMemo algorithm
-- 🔗 **Prerequisite Dependency Tracking** - Intelligent topic ordering based on learning dependencies
-- 🔍 **AI-Powered Research** - Real-time web search for prerequisite discovery
+- **Smart Academic Planning** - Automated study schedules and task management
+- **Spaced Repetition (SM-2)** - Science-backed memory retention using the SuperMemo algorithm
+- **Prerequisite Dependency Tracking** - Intelligent topic ordering based on learning dependencies
+- **AI-Powered Research** - Real-time web search for prerequisite discovery
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
@@ -35,7 +35,7 @@ This project implements a **hierarchical multi-agent system** designed to optimi
 | **Persistent Sessions** | SQLite-backed state management across sessions |
 | **Progress Tracking** | Visual progress indicators with completion status |
 
-## 🏗 Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -65,7 +65,7 @@ This project implements a **hierarchical multi-agent system** designed to optimi
 | **Dependency Engine** | Learning path optimization | `can_learn`, `auto_update_prereqs`, `suggest_next_topics` |
 | **Search Agent** | Research & discovery | `google_search` |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -104,7 +104,7 @@ GOOGLE_API_KEY=your_google_ai_api_key_here
 python main.py
 ```
 
-## 💬 Usage Examples
+## Usage Examples
 
 ### Academic Planning
 ```
