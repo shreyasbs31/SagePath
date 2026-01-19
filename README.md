@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This project implements a **hierarchical multi-agent system** designed to optimize personal learning through:
 - **Smart Academic Planning** - Automated study schedules and task management
