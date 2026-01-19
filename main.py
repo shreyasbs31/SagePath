@@ -32,7 +32,7 @@ from utils import call_agent_async, display_state
 load_dotenv()
 
 # Configuration
-APP_NAME = "LearningMAS"
+APP_NAME = "SagePath"
 USER_ID = os.getenv("USER_ID", "user")  # Configurable via environment
 DB_PATH = os.getenv("DB_PATH", "./learning_mas.db")
 

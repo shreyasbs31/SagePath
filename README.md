@@ -1,4 +1,4 @@
-# Multi-Agent Learning System
+# SagePath — Intelligent Learning Paths & Spaced Repetition Coaching System
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-**An intelligent multi-agent system for personalized learning, powered by Google's Gemini 2.0 and the Agent Development Kit (ADK)**
+**SagePath — a hierarchical multi-agent system that builds personalized learning paths, optimized study plans, and SM-2 spaced-repetition reviews.**
 
 [Features](#-features) • [Architecture](#-architecture) • [Quick Start](#-quick-start) • [Usage](#-usage) • [License](#-license)
 
